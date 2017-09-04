@@ -21,6 +21,7 @@ img.DashboardProfileCard-avatarImage.js-action-profile-avatar,
 .edge-design .ProfileCardMini-avatarImage,
 .edge-design .ProfileListItem-avatar,
 .edge-design .ProfileUserList .Avatar,
-.edge-design .RelatedUsers-users>.account-summary .avatar {
+.edge-design .RelatedUsers-users>.account-summary .avatar,
+a.DashboardProfileCard-avatarLink.u-inlineBlock {
     border-radius: 25% !important;
 }
